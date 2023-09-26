@@ -9,6 +9,8 @@
 // @grant        none
 // ==/UserScript==
 
+/* jshint esversion:8 */
+
 (function () {
   "use strict";
 
