@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         404toWebArchive
+// @name         404toArchive
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
