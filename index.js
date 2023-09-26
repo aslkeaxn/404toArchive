@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         404toArchive
 // @namespace    https://github.com/aslkeaxn/404toArchive
-// @version      0.1
+// @version      0.2
 // @description  Redirects from a 404 page to an archive backup when possible
 // @author       aslkeaxn
 // @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        none
-// @license MIT
+// @license      MIT
 // ==/UserScript==
 
 /* jshint esversion:8 */
