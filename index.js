@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         404toArchive
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/aslkeaxn/404toArchive
 // @version      0.1
-// @description  try to take over the world!
+// @description  Redirects from a 404 page to an archive backup when possible
 // @author       aslkeaxn
 // @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
